@@ -11,6 +11,7 @@
 - Environments: Node.js
 - Tests: Jest
 - Package manager: NPM
+- Formatting: Prettier
 
 ## Planning to learn:
 - React
