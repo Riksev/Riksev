@@ -1,16 +1,18 @@
 # Hi there 👋
 ## About me
 - 🌱 I’m currently learning HTML/CSS/JS.
-- 🔭 Current goal is to become a Fullstack developer.
+- 🔭 Current goal is to become a junior JS developer.
 - 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics).
 
-## My current front-end stack:
+## My current stack:
 - Preprocessors: LESS, SASS/SCSS
 - Libraries: Bootstrap
-- Methodologies: BEM
+- Methodologies: BEM, SOLID, DRY
+- Environments: Node.js
+- Tests: Jest
+- Package manager: NPM
 
 ## Planning to learn:
-- Node.JS, NPM
 - React
 - TypeScript
 - And a lot more
