@@ -8,6 +8,8 @@
 - Preprocessors: LESS, SASS/SCSS
 - Libraries: Bootstrap
 - Methodologies: BEM, SOLID, DRY
+- Patterns: Singleton, Facade, Observer
+- Architecture: monolith, microservices
 - Environments: Node.js
 - Tests: Jest
 - Package manager: NPM
