@@ -9,6 +9,7 @@
 - Libraries: Bootstrap
 - Methodologies: BEM, SOLID, DRY
 - Patterns: Singleton, Facade, Observer
+- Approaches: Refactoring, Clean code
 - Architecture: monolith, microservices
 - Environments: Node.js
 - Tests: Jest
