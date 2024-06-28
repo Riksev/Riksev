@@ -1,18 +1,18 @@
 # Hi there 👋
 ## About me
-- 🌱 I’m currently learning HTML/CSS/JS.
-- 🔭 Current goal is to become a junior JS developer.
+- 🌱 I’m currently learning React/Redux/JS.
 - 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics).
 
 ## My current stack:
-- Frameworks: React
+- Programming languages: JavaScript
 - Preprocessors: LESS, SASS/SCSS
-- Libraries: Bootstrap
+- Libraries: React, Bootstrap
 - Methodologies: BEM, SOLID, DRY
 - Patterns: Singleton, Facade, Observer
 - Approaches: Refactoring, Clean code
-- Architecture: monolith, microservices
+- Architecture: Monolith, Microservices
 - Environments: Node.js
+- Package-managers: NPM
 - Tests: Jest
 - Formatting: Prettier
 <!--
