@@ -7,7 +7,7 @@
 - Programming languages: JavaScript
 - Preprocessors: LESS, SASS/SCSS
 - Styling: Bootstrap
-- Libraries: React, React-Router-DOM, Formik
+- Libraries: React, React-Router-DOM, Formik, Yup
 - Methodologies: BEM, SOLID, DRY
 - Patterns: Singleton, Facade, Observer
 - Approaches: Refactoring, Clean code
