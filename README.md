@@ -6,7 +6,8 @@
 ## My current stack:
 - Programming languages: JavaScript
 - Preprocessors: LESS, SASS/SCSS
-- Libraries: React, Bootstrap
+- Styling: Bootstrap
+- Libraries: React, React-Router-DOM, Formik
 - Methodologies: BEM, SOLID, DRY
 - Patterns: Singleton, Facade, Observer
 - Approaches: Refactoring, Clean code
