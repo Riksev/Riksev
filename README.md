@@ -1,6 +1,7 @@
 # Hi there 👋
 ## About me
 - 🌱 I’m currently learning React/Redux/JS.
+- ⚡ Front-end developer.
 - 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics).
 
 ## My current stack:
