@@ -12,7 +12,6 @@
 - Methodologies: BEM, SOLID, DRY
 - Patterns: Singleton, Facade, Observer
 - Approaches: Refactoring, Clean code
-- Architecture: Monolith, Microservices
 - Environments: Node.js
 - Package-managers: NPM
 - Tests: Jest
