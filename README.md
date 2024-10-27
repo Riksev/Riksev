@@ -1,19 +1,16 @@
 # Hi there 👋
 ## About me
-- 🌱 I’m currently learning React/Redux/JS.
+- 🌱 I’m currently learning React/Redux/Typescript/Python.
 - ⚡ Front-end developer.
 - 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics).
 
-## My current stack:
-- Programming languages: JavaScript
+## Current stack:
+- Programming languages: JavaScript, Typescript
 - Preprocessors: LESS, SASS/SCSS
 - Styling: Bootstrap
 - Libraries: React, React-Router-DOM, Formik, Yup
 - Methodologies: BEM, SOLID, DRY
-- Patterns: Singleton, Facade, Observer
-- Approaches: Refactoring, Clean code
 - Environments: Node.js
-- Package-managers: NPM
 - Tests: Jest
 - Formatting: Prettier
 <!--
