@@ -1,7 +1,7 @@
 # Hi there 👋
 ## About me
 - 🌱 I’m currently learning React/Redux/Typescript/Python.
-- ⚡ Front-end developer.
+- ⚡ Web developer.
 - 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics).
 
 ## Current stack:
@@ -11,7 +11,6 @@
 - Libraries: React, React-Router-DOM, Formik, Yup
 - Methodologies: BEM, SOLID, DRY
 - Environments: Node.js
-- Tests: Jest
 - Formatting: Prettier
 <!--
 **Riksev/Riksev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
