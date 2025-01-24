@@ -9,7 +9,7 @@
 - Preprocessors: LESS, SASS/SCSS
 - Styling: Bootstrap
 - Libraries: React, React-Router-DOM, Formik, Yup
-- Methodologies: BEM, SOLID, DRY
+- Methodologies: BEM, DRY
 - Environments: Node.js
 - Formatting: Prettier
 <!--
