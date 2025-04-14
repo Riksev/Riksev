@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About me
-- 🌱 I’m currently learning React/Redux/Typescript/Python.
+- 🌱 I’m currently learning React/Redux/Typescript.
 - ⚡ Web developer.
 - 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics).
 
@@ -8,7 +8,7 @@
 - Programming languages: JavaScript, Typescript
 - Preprocessors: LESS, SASS/SCSS
 - Styling: Bootstrap
-- Libraries: React, React-Router-DOM, Formik, Yup
+- Libraries: React, Redux, React-Router-DOM, Formik, Yup
 - Methodologies: BEM, DRY
 - Environments: Node.js
 - Formatting: Prettier
