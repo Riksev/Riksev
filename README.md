@@ -1,17 +1,19 @@
 # Hi there 👋
 ## About me
-- 🌱 I’m currently learning React/Redux/Typescript.
+- 🌱 I’m currently learning advanced React/Redux/Typescript.
 - ⚡ Web developer.
-- 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics).
+- 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics; Master's degree).
+- ✨ 2021-2025 Bachelor of Computer Science speciality 122 Computer Science under the Informatics program at NURE.
 
 ## Current stack:
-- Programming languages: JavaScript, Typescript
-- Preprocessors: LESS, SASS/SCSS
-- Styling: Bootstrap
-- Libraries: React, Redux, React-Router-DOM, Formik, Yup
-- Methodologies: BEM, DRY
-- Environments: Node.js
-- Formatting: Prettier
+- Programming languages: JavaScript (TypeScript);
+- Preprocessors: LESS, SASS/SCSS;
+- Styling: Bootstrap, FontAwesome;
+- Libraries: React, Redux, React-Router-DOM, Formik, Yup;
+- Methodologies: BEM, DRY;
+- Environments: Node.js;
+- Formatting: Prettier;
+- Tools: Vite.
 <!--
 **Riksev/Riksev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
