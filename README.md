@@ -5,15 +5,19 @@
 - 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics; Master's degree).
 - ✨ 2021-2025 Bachelor of Computer Science speciality 122 Computer Science under the Informatics program at NURE.
 
-## Current stack:
+## Current skills:
 - Programming languages: JavaScript (TypeScript);
 - Preprocessors: LESS, SASS/SCSS;
-- Styling: Bootstrap, FontAwesome;
+- Styling: Bootstrap, Tailwind CSS, FontAwesome;
 - Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js;
+- Tests: Cypress, React-Testing-Library;
+- Visual tests: WebdriverIO, Sauce Labs, Happo.io;
 - Methodologies: BEM, DRY;
+- Approaches: Refactoring, Clean code;
+- Architecture: Monolith, Microservices;
 - Environments: Node.js;
-- Formatting: Prettier;
-- Tools: Vite.
+- Package managers: NPM;
+- Formatting: Prettier.
 <!--
 **Riksev/Riksev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
