@@ -9,7 +9,7 @@
 - Programming languages: JavaScript (TypeScript);
 - Preprocessors: LESS, SASS/SCSS;
 - Styling: Bootstrap, FontAwesome;
-- Libraries: React, Redux, React-Router-DOM, Formik, Yup;
+- Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js;
 - Methodologies: BEM, DRY;
 - Environments: Node.js;
 - Formatting: Prettier;
