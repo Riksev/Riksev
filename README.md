@@ -8,7 +8,7 @@
 
 ## Current skills:
 - Programming languages: JavaScript/TypeScript;
-- Preprocessors: LESS, SASS/SCSS;
+- Markup: HTML, CSS, LESS, SASS/SCSS;
 - Styling: Bootstrap, Tailwind CSS, FontAwesome;
 - Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js, React Query, React Native;
 - Tests: Cypress, React-Testing-Library;
