@@ -1,20 +1,24 @@
 # Hi there 👋
 ## About me
-- 🌱 I’m currently learning advanced React/Redux/Typescript.
-- ⚡ Web developer.
-- 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics; Master's degree).
-- ✨ 2021-2025 Bachelor of Computer Science speciality 122 Computer Science under the Informatics program at NURE.
+- 🌱 I’m currently learning advanced React/Redux/Typescript;
+- ⚡ Frontend developer;
+- 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics; Master's degree);
+- ✨ 2021-2025 Bachelor of Computer Science at NURE;
+- ✨ 2025-2027 Master of Software Engineering at NURE.
 
 ## Current skills:
-- Programming languages: JavaScript (TypeScript);
+- Programming languages: JavaScript/TypeScript;
 - Preprocessors: LESS, SASS/SCSS;
 - Styling: Bootstrap, Tailwind CSS, FontAwesome;
-- Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js;
+- Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js, React Query, React Native;
 - Tests: Cypress, React-Testing-Library;
 - Visual tests: WebdriverIO, Sauce Labs, Happo.io;
 - Methodologies: BEM, DRY;
+- Build: Vite, Express, Apollo;
 - Approaches: Refactoring, Clean code;
 - Architecture: Monolith, Microservices;
+- Architecture: REST API, gRPC, RTC, GraphQL;
+- Version: Git;
 - Environments: Node.js;
 - Package managers: NPM;
 - Formatting: Prettier.
