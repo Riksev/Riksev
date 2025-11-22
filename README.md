@@ -16,8 +16,6 @@
 - Methodologies: BEM, DRY;
 - Build: Vite, Express, Apollo;
 - Approaches: Refactoring, Clean code;
-- Architecture: Monolith, Microservices;
-- Architecture: REST API, gRPC, RTC, GraphQL;
 - Version: Git;
 - Environments: Node.js;
 - Package managers: NPM;
