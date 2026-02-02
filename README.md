@@ -9,14 +9,14 @@
 - Programming languages: JavaScript/TypeScript;
 - Markup: HTML, CSS, LESS, SASS/SCSS;
 - Styling: Bootstrap, Tailwind CSS, FontAwesome;
-- Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js, React Query, Moment;
-- Frameworks: React Native;
+- Build: Vite, Create React App;
+- Frameworks: Astro, Express, Expo, React Native;
+- Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js, React Query, Moment, Apollo;
 - Tests: Cypress, React-Testing-Library;
 - Visual tests: WebdriverIO, Sauce Labs, Happo.io;
 - Methodologies: BEM, DRY;
-- Build: Vite, Express, Apollo, Expo;
 - Approaches: Refactoring, Clean code;
-- VC: Git;
+- VCS: Git;
 - Environments: Node.js;
 - Package managers: NPM;
 - Formatting: Prettier.
