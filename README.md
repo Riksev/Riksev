@@ -1,7 +1,7 @@
 # Hi there 👋
 ## About me
 - ⚡ Frontend developer;
-- 👨‍🎓 I study at the NURE (Kharkiv National University of Radioelectronics);
+- 👨‍🎓 I study at NURE (Kharkiv National University of Radioelectronics);
 - ✨ 2021-2025 Bachelor of Computer Science at NURE;
 - ✨ 2025-2027 Master of Software Engineering at NURE.
 
