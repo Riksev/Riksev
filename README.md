@@ -6,7 +6,7 @@
 - Location: Ukraine, considering relocation.
 
 ## Experience
-MAR 2026 - MAY 2026 | Fullstack JavaScript Developer | Freelance
+MAR 2026 - MAY 2026 | Fullstack JavaScript Developer | [Freelance](https://ankistedo.blacksea.in.ua/l/vhuv)
 - enhanced backend performance by 30% through code optimisation and refactoring;
 - secured intellectual property through a custom-built pipeline including JSX binary compilation, advanced code obfuscation, and minification of CSS/HTML assets.
 - developed frontend in modern JavaScript (ES6+) for the Adobe After Effects plugin;
