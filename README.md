@@ -5,7 +5,14 @@
 - ✨ 2021-2025 Bachelor of Computer Science at NURE;
 - ✨ 2025-2027 Master of Software Engineering at NURE.
 
-## Current skills:
+## Experience
+- MAR 2026 - MAY 2026 | Fullstack JavaScript Developer | Freelance
+- -enhanced backend performance by 30% through code optimisation and refactoring;
+- -secured intellectual property through a custom build pipeline including JSX binary compilation, advanced code obfuscation, and minification of CSS/HTML assets.
+- -developed frontend in modern JavaScript (ES6+) for the Adobe After Effects plugin;
+- -successfully completed and delivered the project in 2 months, ensuring stable plugin operation.
+
+## Current skills
 - Programming languages: JavaScript/TypeScript;
 - Markup: HTML, CSS, LESS, SASS/SCSS;
 - Styling: Bootstrap, Tailwind CSS, FontAwesome;
