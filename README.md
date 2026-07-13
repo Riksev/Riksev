@@ -1,43 +1,24 @@
 ## About me
-- JavaScript frontend developer;
-- Currently available for full-time roles;
-- Bachelor's Degree in Computer Science at NURE;
-- Master's Degree in Software Engineering at NURE (Expected 2027).
-- Location: Ukraine, considering relocation.
+- **JavaScript Frontend Developer** available for full-time roles.
+- **Location:** Relocating to Lithuania — Available for local, hybrid, or EU remote roles.
+- **Education:** 
+  - Master's Degree in Software Engineering, NURE (Expected 2027, Remote)
+  - Bachelor's Degree in Computer Science, NURE
 
 ## Experience
-MAR 2026 - MAY 2026 | Fullstack JavaScript Developer | [Freelance](https://ankistedo.blacksea.in.ua/l/vhuv)
-- enhanced backend performance by 30% through code optimisation and refactoring;
-- secured intellectual property through a custom-built pipeline including JSX binary compilation, advanced code obfuscation, and minification of CSS/HTML assets.
-- developed frontend in modern JavaScript (ES6+) for the Adobe After Effects plugin;
-- successfully completed and delivered the project in 2 months, ensuring stable plugin operation.
+**Fullstack JavaScript Developer** | [Ankistedo](https://ankistedo.blacksea.in.ua/l/vhuv) (Freelance Contract)
+*MAR 2026 - MAY 2026*
+- **Enhanced backend performance by 30%** through code optimization and architectural refactoring.
+- **Secured intellectual property** by engineering a custom-built pipeline including JSX binary compilation, advanced code obfuscation, and automated minification of CSS/HTML assets.
+- **Developed the frontend interface** in modern JavaScript (ES6+) for a complex Adobe After Effects plugin.
+- **Delivered the project on a strict 2-month timeline**, ensuring stable plugin operation for end users.
 
-## Current skills
-- Programming languages: JavaScript/TypeScript;
-- Markup: HTML, CSS, LESS, SASS/SCSS;
-- Styling: Bootstrap, Tailwind CSS, FontAwesome;
-- Build: Vite, Create React App;
-- Frameworks: Astro, Express, Expo, React Native;
-- Libraries: React, Redux, React-Router-DOM, Formik, Yup, Swiper.js, React Query, Moment, Apollo;
-- Tests: Cypress, React-Testing-Library;
-- Visual tests: WebdriverIO, Sauce Labs, Happo.io;
-- Methodologies: BEM, DRY;
-- Approaches: Refactoring, Clean code;
-- VCS: Git;
-- Environments: Node.js;
-- Package managers: NPM;
-- Formatting: Prettier.
-<!--
-**Riksev/Riksev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Markup & Styles:** HTML, CSS, LESS, SASS/SCSS, Bootstrap, Tailwind CSS, FontAwesome
+- **Frameworks:** React Native, Expo, Astro, Express
+- **Libraries:** React, Redux, React-Router-DOM, Formik, Yup, Swiper.js, React Query, Apollo, Moment.js
+- **Build Tools:** Vite
+- **Testing:** Cypress, React-Testing-Library, WebdriverIO, Sauce Labs, Happo.io
+- **Methodologies:** BEM, DRY, Clean Code, Refactoring
+- **Tools:** Git, Node.js, NPM, Prettier
