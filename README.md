@@ -1,9 +1,10 @@
 # Hi there 👋
 ## About me
-- ⚡ Frontend developer;
-- 👨‍🎓 I study at NURE (Kharkiv National University of Radioelectronics);
-- ✨ 2021-2025 Bachelor of Computer Science at NURE;
-- ✨ 2025-2027 Master of Software Engineering at NURE.
+- JavaScript frontend developer;
+- Currently available for full-time roles;
+- Bachelor's Degree in Computer Science at NURE;
+- Master's Degree in Software Engineering at NURE (Expected 2027).
+- Location: Ukraine, considering relocation.
 
 ## Experience
 MAR 2026 - MAY 2026 | Fullstack JavaScript Developer | Freelance
