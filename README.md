@@ -1,4 +1,3 @@
-# Hi there 👋
 ## About me
 - JavaScript frontend developer;
 - Currently available for full-time roles;
