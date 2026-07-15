@@ -1,6 +1,6 @@
 ## About me
 - **JavaScript Frontend Developer** available for full-time roles.
-- **Location:** Relocating to Lithuania — Available for local, hybrid, or EU remote roles.
+- **Location:** Relocating to Lithuania (August, 2026) — Available for local, hybrid, or EU + Global remote roles.
 - **Education:** 
   - Master's Degree in Software Engineering, NURE (Expected 2027, Remote)
   - Bachelor's Degree in Computer Science, NURE
